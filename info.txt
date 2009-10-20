@@ -1,0 +1,7 @@
+author  Dominik Eckelmann
+email   deckelmann@gmail.com
+date    2009-10-20
+name    Sets the default title for links into the board
+desc    If a link to a specefic phpbb is found without a title it'll add the thread title as default title
+url     http://www.dokuwiki.org/plugin:phpbblinks
+
